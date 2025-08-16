@@ -25,7 +25,7 @@ import philosophyLibrary from "../data/philosophyLibrary.json";
 // ---------------- helpers ----------------
 
 function pickQuestions(text: string): string[] {
-  let pool = [...questionBank.general];
+  const pool = [...questionBank.general];
   if (/work|boss|office|job/i.test(text)) pool.push(...questionBank.workplace);
   if (/family|parent|child|spouse/i.test(text)) pool.push(...questionBank.family);
   const n = Math.floor(Math.random() * 3) + 3; // 3–5
