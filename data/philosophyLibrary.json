@@ -1,0 +1,291 @@
+{
+  "Plato": {
+    "era": "Classical Greek",
+    "tradition": ["Idealism"],
+    "core_ideas": ["Forms/ideals", "philosopher-king", "tripartite soul"],
+    "key_works": ["Republic", "Phaedo"],
+    "use_when": ["justice theory", "education and virtue", "appearance vs reality"],
+    "caveats": ["authoritarian implications", "anti-democratic tendencies"],
+    "tags": ["ethics", "political", "metaphysics"]
+  },
+  "Aristotle": {
+    "era": "Classical Greek",
+    "tradition": ["Virtue ethics"],
+    "core_ideas": ["eudaimonia", "golden mean", "teleology", "phronesis"],
+    "key_works": ["Nicomachean Ethics", "Politics"],
+    "use_when": ["character formation", "practical wisdom", "habit & flourishing"],
+    "caveats": ["role-based, can underplay structural injustice"],
+    "tags": ["ethics", "political"]
+  },
+  "Epictetus": {
+    "era": "Hellenistic",
+    "tradition": ["Stoicism"],
+    "core_ideas": ["control what you can", "virtue as only good", "logos"],
+    "key_works": ["Enchiridion", "Discourses"],
+    "use_when": ["resilience", "agency under constraints", "emotion regulation"],
+    "caveats": ["risk of quietism about injustice"],
+    "tags": ["ethics", "practical"]
+  },
+  "Epicurus": {
+    "era": "Hellenistic",
+    "tradition": ["Epicureanism"],
+    "core_ideas": ["ataraxia", "simple pleasures", "friendship", "avoid pain"],
+    "key_works": ["Letter to Menoeceus"],
+    "use_when": ["well-being design", "work–life balance", "consumerism critique"],
+    "caveats": ["misread as hedonism; actually modest"],
+    "tags": ["ethics"]
+  },
+  "Augustine": {
+    "era": "Late Antique",
+    "tradition": ["Christian philosophy"],
+    "core_ideas": ["restless heart", "ordered love", "original sin"],
+    "key_works": ["Confessions", "City of God"],
+    "use_when": ["moral psychology", "meaning, love hierarchy"],
+    "caveats": ["theological commitments not shared by all"],
+    "tags": ["ethics", "religion"]
+  },
+  "Aquinas": {
+    "era": "Medieval",
+    "tradition": ["Scholasticism", "Natural law"],
+    "core_ideas": ["natural law", "virtues", "reason + faith"],
+    "key_works": ["Summa Theologiae"],
+    "use_when": ["law & morality", "bioethics basics", "common good"],
+    "caveats": ["teleology assumes fixed natures"],
+    "tags": ["ethics", "law"]
+  },
+  "Descartes": {
+    "era": "Early Modern",
+    "tradition": ["Rationalism"],
+    "core_ideas": ["methodic doubt", "cogito", "mind–body dualism"],
+    "key_works": ["Meditations"],
+    "use_when": ["certainty & knowledge", "selfhood", "AI consciousness debates"],
+    "caveats": ["dualism contested by embodied views"],
+    "tags": ["epistemology", "mind"]
+  },
+  "Spinoza": {
+    "era": "Early Modern",
+    "tradition": ["Monism"],
+    "core_ideas": ["God/Nature", "determinism", "affects"],
+    "key_works": ["Ethics"],
+    "use_when": ["systems thinking", "freedom as understanding necessity"],
+    "caveats": ["hard determinism chafes common intuitions"],
+    "tags": ["metaphysics", "ethics"]
+  },
+  "Hobbes": {
+    "era": "Early Modern",
+    "tradition": ["Social contract"],
+    "core_ideas": ["state of nature", "sovereign for peace"],
+    "key_works": ["Leviathan"],
+    "use_when": ["security vs liberty", "institution design"],
+    "caveats": ["authoritarian risk"],
+    "tags": ["political"]
+  },
+  "Locke": {
+    "era": "Early Modern",
+    "tradition": ["Liberalism"],
+    "core_ideas": ["natural rights", "consent", "property via labor"],
+    "key_works": ["Two Treatises"],
+    "use_when": ["rights conflicts", "privacy/property"],
+    "caveats": ["colonial blind spots"],
+    "tags": ["political", "law"]
+  },
+  "Hume": {
+    "era": "Enlightenment",
+    "tradition": ["Empiricism"],
+    "core_ideas": ["habit-based belief", "is–ought gap", "sentiment in morals"],
+    "key_works": ["Treatise", "Enquiry"],
+    "use_when": ["causation skepticism", "moral psychology"],
+    "caveats": ["skepticism can undercut normativity"],
+    "tags": ["epistemology", "ethics"]
+  },
+  "Kant": {
+    "era": "Enlightenment",
+    "tradition": ["Deontology"],
+    "core_ideas": ["categorical imperative", "dignity/ends", "autonomy"],
+    "key_works": ["Groundwork", "Metaphysics of Morals"],
+    "use_when": ["duty conflicts", "consent, privacy, fairness"],
+    "caveats": ["rigidity; hard on exceptions"],
+    "tags": ["ethics", "law"]
+  },
+  "Mill": {
+    "era": "19th c.",
+    "tradition": ["Utilitarianism", "Liberalism"],
+    "core_ideas": ["harm principle", "utility", "experiments in living"],
+    "key_works": ["On Liberty", "Utilitarianism"],
+    "use_when": ["speech, risk/benefit tradeoffs, policy"],
+    "caveats": ["minority rights can be swamped by totals"],
+    "tags": ["ethics", "political"]
+  },
+  "Kierkegaard": {
+    "era": "19th c.",
+    "tradition": ["Existentialism (Christian)"],
+    "core_ideas": ["subjectivity", "leap of faith", "authentic choice"],
+    "key_works": ["Fear and Trembling"],
+    "use_when": ["identity crisis", "anxiety", "personal commitment"],
+    "caveats": ["anti-system; less policy-relevant"],
+    "tags": ["ethics", "self","love,", "Christianity"]
+  },
+  "Nietzsche": {
+    "era": "19th c.",
+    "tradition": ["Genealogy", "Anti-moralism"],
+    "core_ideas": ["will to power", "revaluation of values", "eternal recurrence"],
+    "key_works": ["Genealogy of Morals", "Zarathustra"],
+    "use_when": ["value critique", "resentment, creativity, becoming"],
+    "caveats": ["misused historically; anti-egalitarian tones"],
+    "tags": ["ethics", "culture", "self"]
+  },
+  "Marx": {
+    "era": "19th c.",
+    "tradition": ["Materialism", "Critique of capitalism"],
+    "core_ideas": ["alienation", "class struggle", "historical materialism"],
+    "key_works": ["Capital", "Manifesto"],
+    "use_when": ["work/meaning", "inequality, ideology critique"],
+    "caveats": ["teleology; state power risks"],
+    "tags": ["political", "ethics", "economy"]
+  },
+  "Freud": {
+    "era": "19–20th c.",
+    "tradition": ["Psychoanalysis (proto)"],
+    "core_ideas": ["unconscious", "drive/conflict", "sublimation"],
+    "key_works": ["Civilization and Its Discontents"],
+    "use_when": ["motivation, repression, guilt dynamics"],
+    "caveats": ["contested empirically"],
+    "tags": ["self", "culture", "psycology"]
+  },
+  "Heidegger": {
+    "era": "20th c.",
+    "tradition": ["Phenomenology"],
+    "core_ideas": ["Dasein", "being-in-the-world", "authenticity", "care"],
+    "key_works": ["Being and Time"],
+    "use_when": ["meaning, time, technology critique"],
+    "caveats": ["political history; dense style"],
+    "tags": ["ontology", "existential"]
+  },
+  "Sartre": {
+    "era": "20th c.",
+    "tradition": ["Existentialism"],
+    "core_ideas": ["existence precedes essence", "radical freedom", "bad faith"],
+    "key_works": ["Existentialism is a Humanism", "Being and Nothingness"],
+    "use_when": ["choice, responsibility, roles", "authenticity"],
+    "caveats": ["overstates freedom; ignores structure"],
+    "tags": ["ethics", "self"]
+  },
+  "Beauvoir": {
+    "era": "20th c.",
+    "tradition": ["Existential feminism"],
+    "core_ideas": ["the Other", "ambiguity", "freedom-in-situation"],
+    "key_works": ["The Second Sex", "The Ethics of Ambiguity"],
+    "use_when": ["gender, agency under constraint, care vs freedom"],
+    "caveats": ["context needed; misread when decontextualized"],
+    "tags": ["ethics", "feminism"]
+  },
+  "Arendt": {
+    "era": "20th c.",
+    "tradition": ["Political theory"],
+    "core_ideas": ["banality of evil", "action & plurality", "public realm"],
+    "key_works": ["The Human Condition", "Eichmann in Jerusalem"],
+    "use_when": ["bureaucracy & harm", "civic space, totalitarianism"],
+    "caveats": ["normative ambiguities"],
+    "tags": ["political", "ethics"]
+  },
+  "Rawls": {
+    "era": "20th c.",
+    "tradition": ["Liberal egalitarianism"],
+    "core_ideas": ["original position", "veil of ignorance", "difference principle"],
+    "key_works": ["A Theory of Justice"],
+    "use_when": ["fairness design", "policy tradeoffs"],
+    "caveats": ["ideal theory; realism critics"],
+    "tags": ["political", "ethics", "law"]
+  },
+  "Nozick": {
+    "era": "20th c.",
+    "tradition": ["Libertarianism"],
+    "core_ideas": ["entitlement theory", "minimal state"],
+    "key_works": ["Anarchy, State, and Utopia"],
+    "use_when": ["property, redistribution critique, consent"],
+    "caveats": ["ignores starting inequalities"],
+    "tags": ["political", "law"]
+  },
+  "Foucault": {
+    "era": "20th c.",
+    "tradition": ["Genealogy", "Post-structuralism"],
+    "core_ideas": ["power/knowledge", "discipline", "biopolitics"],
+    "key_works": ["Discipline and Punish", "History of Sexuality"],
+    "use_when": ["surveillance, institutions, norms critique"],
+    "caveats": ["diagnostic, not prescriptive"],
+    "tags": ["political", "ethics", "culture"]
+  },
+  "Derrida": {
+    "era": "20th c.",
+    "tradition": ["Deconstruction"],
+    "core_ideas": ["différance", "textual instability", "aporia"],
+    "key_works": ["Of Grammatology"],
+    "use_when": ["conceptual analysis", "binary critique"],
+    "caveats": ["can paralyze decision-making"],
+    "tags": ["method", "language"]
+  },
+  "Levinas": {
+    "era": "20th c.",
+    "tradition": ["Ethics of the Other"],
+    "core_ideas": ["face-to-face", "infinite responsibility"],
+    "key_works": ["Totality and Infinity"],
+    "use_when": ["care, vulnerability, obligation prior to choice"],
+    "caveats": ["heavy asymmetry; practical limits"],
+    "tags": ["ethics", "responsibility"]
+  },
+  "MacIntyre": {
+    "era": "20th c.",
+    "tradition": ["Neo-Aristotelian"],
+    "core_ideas": ["practices & goods", "tradition-constituted rationality"],
+    "key_works": ["After Virtue"],
+    "use_when": ["institutional integrity", "virtue in modern life"],
+    "caveats": ["tradition-bound limits"],
+    "tags": ["ethics", "culture"]
+  },
+  "Gilligan": {
+    "era": "20th c.",
+    "tradition": ["Care ethics"],
+    "core_ideas": ["relational ethics", "voice and context"],
+    "key_works": ["In a Different Voice"],
+    "use_when": ["care work, relationships, context-sensitive decisions"],
+    "caveats": ["risks essentializing if misapplied"],
+    "tags": ["ethics", "feminism"]
+  },
+  "Nussbaum": {
+    "era": "20–21st c.",
+    "tradition": ["Capabilities approach"],
+    "core_ideas": ["human capabilities list", "dignity, flourishing"],
+    "key_works": ["Creating Capabilities"],
+    "use_when": ["development policy", "disability, justice beyond GDP"],
+    "caveats": ["debates over list universality"],
+    "tags": ["ethics", "political"]
+  },
+  "Butler": {
+    "era": "20–21st c.",
+    "tradition": ["Gender theory"],
+    "core_ideas": ["performativity", "norms & recognition"],
+    "key_works": ["Gender Trouble"],
+    "use_when": ["identity, norm critique, recognition politics"],
+    "caveats": ["abstract; needs careful application"],
+    "tags": ["ethics", "culture", "feminism"]
+  },
+  "Bell Hooks": {
+    "era": "20–21st c.",
+    "tradition": ["Black feminist thought"],
+    "core_ideas": ["love as ethic", "intersectionality", "education as freedom"],
+    "key_works": ["All About Love", "Teaching to Transgress"],
+    "use_when": ["care & justice", "race/gender/class intersections"],
+    "caveats": ["normative commitments explicit"],
+    "tags": ["ethics", "education", "feminism", "love"]
+  },
+  "Fanon": {
+    "era": "20th c.",
+    "tradition": ["Anti-colonial"],
+    "core_ideas": ["colonial violence", "decolonization", "psyche & liberation"],
+    "key_works": ["Black Skin, White Masks", "Wretched of the Earth"],
+    "use_when": ["race, power, liberation struggles"],
+    "caveats": ["violence debates"],
+    "tags": ["political", "ethics", "race"]
+
+  }
+}
