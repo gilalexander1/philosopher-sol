@@ -1,0 +1,20 @@
+{
+  "general": [
+    "Who is most affected by your decision?",
+    "What would happen if everyone acted the same way?",
+    "What emotions are influencing your judgment?",
+    "Is there a conflict between duty and desire here?",
+    "How much risk or harm are you willing to tolerate?",
+    "What values do you most want to protect?"
+  ],
+  "workplace": [
+    "Does this affect fairness between coworkers?",
+    "Would transparency or discretion be more ethical here?",
+    "How would a leader you respect handle this?"
+  ],
+  "family": [
+    "What bonds of care or loyalty are in play?",
+    "Are you protecting someone’s autonomy or overriding it?",
+    "How would future generations see this choice?"
+  ]
+}
